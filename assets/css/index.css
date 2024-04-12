@@ -1,0 +1,80 @@
+/* background */
+
+.bsb-tpl-bg-blue{
+    background: white;
+}
+
+
+/* Navbar  */
+
+.nav-link {
+    color: black;
+}
+
+.navbar-nav .nav-link.active{
+    color: orange;
+}
+
+.text-accent {
+    color: #e48464;
+}
+
+.bsb-tpl-highlight.bsb-tpl-highlight-blue {
+    background-image: linear-gradient(120deg,#f8e9e2,#f6ceb4);
+}
+
+/* btn header */
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #e5a187;
+    --bs-btn-border-color: #e5a187;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #edccc4;
+    --bs-btn-hover-border-color: #edccc4;
+    --bs-btn-focus-shadow-rgb: 78,92,173;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #e5a187;
+    --bs-btn-active-border-color: #e5a187;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #e5a187;
+    --bs-btn-disabled-border-color: #e5a187;
+}
+
+
+
+
+
+/* section serviços */
+
+
+
+.btn-accent {
+        --bs-btn-color: #fff;
+        --bs-btn-bg: #e5a187;
+        --bs-btn-border-color: #e5a187;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #edccc4;
+        --bs-btn-hover-border-color: #edccc4;
+        --bs-btn-focus-shadow-rgb: 78,92,173;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #e5a187;
+        --bs-btn-active-border-color: #e5a187;
+        --bs-btn-active-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+        --bs-btn-disabled-color: #fff;
+        --bs-btn-disabled-bg: #e5a187;
+        --bs-btn-disabled-border-color: #e5a187;
+    }
+
+.col-xxl-7{
+    padding-top: 3,5rem;
+}
+
+@media (max-width: 990px) {
+
+    .nav-link {
+        color: black;
+    }
+
+}
