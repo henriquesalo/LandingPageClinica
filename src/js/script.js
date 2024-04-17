@@ -5,7 +5,7 @@ $(document).ready(function() {
     });
 
     const sections = $('section');
-    const navItems = $('.nav-item');
+    const navItems = $('.nav_item');
 
     $(window).on('scroll', function(){
         const header = $('header');
