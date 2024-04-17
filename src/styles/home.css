@@ -99,4 +99,9 @@
     #phone_button button {
         display: none;
     }
+
+    #cta .title {
+        font-size: 2rem;
+        color: #1d1d1d;   
+    }
 }
