@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: space-between;
     gap: 48px;
+    padding: 20px 8% 0px 8%;
 }
 
 .section-subtitle{
@@ -57,6 +58,7 @@
 }
 
 #infos {
+    padding: 0px 0px 100px 0px;
     display: flex;
     justify-content: center;
     flex-direction: row;
